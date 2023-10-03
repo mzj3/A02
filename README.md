@@ -11,7 +11,14 @@
     public and private repositories on GitHubs website. Making an account is free, it you only need  
     to upgrade if you plan on working on a private project that includes more than 3 collaborators.
     
-      For this tutorial, I will not be installing **GIT** on the system localy, but I will go in detail if you wished to do so. Git was originally created by OS founding father Linus Torvald, the creator of Linux
+      For this tutorial, I will not be installing **GIT** on the system localy, but I will go in
+    detail if you wished to do so. Git was originally created by OS founding father Linus Torvald, 
+    the creator of Linux. He originally made it to track his changes as he was developing Linux, and
+    it soon exploded as a simple and powerful way for programmers to collaborate, coordinate work,
+    and work together on code and development projects. Git allows teams to work remotely. If you 
+    wish to install GIT on your machine, here is a link to the download for Linux, Mac, and Windows.
+        https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+    
 
 **PART 1**: Directions on Using Webstorm.
 
