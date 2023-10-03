@@ -17,7 +17,7 @@
   it soon exploded as a simple and powerful way for programmers to collaborate, coordinate work,
   and work together on code and development projects. Git allows teams to work remotely. If you 
   wish to install GIT on your machine, here is a link to the download for Linux, Mac, and Windows.
-        https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+                  https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
     
 
 **PART 1**: Directions on Using Webstorm.
