@@ -77,6 +77,7 @@
   * https://www.jetbrains.com/toolbox/app/
 
   Here we will installing WebStorm.
+  
   ![image](https://github.com/mzj3/A02/assets/98351089/295fa5d5-6411-421a-b0d1-c73a30dba349)
   If you want a specific version, click "Avaliable Versions". Make sure to log-in with yout JetBrains account
   as this IDE is not free and requires a valid license. You can now open WebStorm through the Toolbox App.
@@ -86,6 +87,7 @@
   configuration files. There is an auto-generated folder called ._idea_ that is used for configurations and 
   version control systems (such as GIT) You can open, check out, and create projects from the WebStorm 
   Welcome screen.
+  
   ![image](https://github.com/mzj3/A02/assets/98351089/aca03299-24cf-45ce-8611-0cb692effcc3)
     Click _Open_ > _NameOfProjectFolder_!
 
