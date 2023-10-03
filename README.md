@@ -14,12 +14,12 @@
   detail if you wished to do so. Git was originally created by OS founding father Linus Torvald, 
   the creator of Linux. He originally made it to track his changes as he was developing Linux, and
   it soon exploded as a simple and powerful way for programmers to collaborate, coordinate work,
-  and work together on code and development projects. Git allows teams to work remotely. If you 
+  and work together on code and development projects. Git allows teams to work **remotely**. If you 
   wish to install GIT on your machine, here is a link to the download for Linux, Mac, and Windows.
   * https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
   Now that you know what GIT is and have a proper Github account setup, it's time to make our first 
-  repository. A repository (or repo) is essentially synonymous with the word “project.” This repo can
+  repository. A **repository** (or repo) is essentially synonymous with the word “project.” This repo can
   consist of everything including images, files, spreadsheets, videos, and more. It is good practice
   to include a README file that allows users to have an idea what the repository is all about. For
   example, this README.md file exists for the assignment A02 for the class IS-117. It's purpose is 
@@ -30,7 +30,7 @@
   screen where you can name the repo, include a description, as well the optional auto-generated
   READMe file. Then click "Create Repository".
 
-  Now that you have a repo, you can now create a branch. Branches allow a user to make different 
+  Now that you have a repo, you can now create a branch. **Branches** allow a user to make different 
   versions of their project. This means you can make risky changes without ruining the original 
   version of your project. A master/main branch is what acts as the final product, or the branch that 
   is most complete/stable. When you create a branch, it will copy the main branch. Typically, a
@@ -40,8 +40,29 @@
   To create a branch, go to your brand new repo and click the dropdown that says "branch: main".
   Type the name of a new branch, and click "Create Branch". 
     
-  We now have a repository and a new branch.
+  We now have a repository and a new branch. The next step is to create and **commit** changes to a specific
+  branch. Lets say we go to our new branch called "branch: test". If you click the pen icon when viewing
+  a file, you are able to edit it on Github. From here, you are able to make necessary changes and edits.
+  You can now save your edits by writing a commit message and clicking "Commit Changes". Commits give a
+  reason why a specific change was made. It is important to write something down anytime you make a
+  change. Commits give a history of changes and helps communicate to collaborators how the project has
+  evolved over time.
 
+  If a user wants a branch to be merged into another branch, they must create a **pull request**. A pull 
+  request is necessary when notifying other users in the project that you wish to incorporate your code
+  into the main branch. A pull request will compare and contrast what has been added and removed in the
+  code with green and red highlights. These requests are commonly done alongside a commit. It is important
+  to use the '@' feature to notify collaborators whose code may be effected by these chanegs.
+
+  In order to create the pull request, go to "pull request" tab and press "create new pull request". This
+  will then compare the "branch: test" and "branch: main". If you are satisfied with the changes, be sure
+  to press "create pull request.".
+
+  Lastly, you'll want to **merge** your pull request to the main branch. This can vary on from project to 
+  project. If you are the leader or doing a project by yourself, you have the green light to merge to main.
+  Otherwise, it's important to contact your superiors to handle it. If you wish to merge, simply hit the 
+  button that says “merge pull request,” select “confirm merge”. You are now free to delete the branch 
+  named "branch: test".
   
 **PART 1**: Directions on Using Webstorm.
 
