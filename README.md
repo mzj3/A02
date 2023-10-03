@@ -66,6 +66,38 @@
   
 **PART 1**: Directions on Using Webstorm.
 
+  Webstorm WebStorm is a cross-platform IDE that provides consistent experience on the Windows, macOS, 
+  and Linux operating systems. It can be used for coding JavaScript and its related technologies, including 
+  TypeScript, React, Vue, Angular, Node.js, HTML, and style sheets. Similar to other IDEs, WebStorm makes 
+  your development experience easier, automating routine work and helping you handle complex tasks with ease.
+
+  First I will be going over the installation. In order to Install WebStorm, it is highly reccomended to 
+  install the Toolbox App to access all JetBrains products. Download the installer .exe from the Toolbox 
+  App web page and follow the install wizard. 
+  * https://www.jetbrains.com/toolbox/app/
+
+  Here we will installing WebStorm.
+  ![image](https://github.com/mzj3/A02/assets/98351089/295fa5d5-6411-421a-b0d1-c73a30dba349)
+  If you want a specific version, click "Avaliable Versions". Make sure to log-in with yout JetBrains account
+  as this IDE is not free and requires a valid license. You can now open WebStorm through the Toolbox App.
+
+  Now that WebStorm is installed on your machine, we can go through some basics. A project inside of WebStorm
+  is a folder that holds all of the source code that you write, as well as the libraries, tools, and app
+  configuration files. There is an auto-generated folder called ._idea_ that is used for configurations and 
+  version control systems (such as GIT) You can open, check out, and create projects from the WebStorm 
+  Welcome screen.
+  ![image](https://github.com/mzj3/A02/assets/98351089/aca03299-24cf-45ce-8611-0cb692effcc3)
+    Click _Open_ > _NameOfProjectFolder_!
+
+  To create a new projects, simply click "Create New Project" on the Welcome Screen or
+    Click _File_ > _New_ > _Project_
+  Next, choose "Empty Project". On the right side, choose the application folder and choose "Create".
+
+  Now that a project exists, we can create a file. Choose new from the context menu of the selection and
+  choose the desired file type. This can be HTML, Stylesheet, or JavaScript. In this class, we will be focussing
+  on HTML and CSS, so I reccomend the first two options.
+  ![image](https://github.com/mzj3/A02/assets/98351089/9745ad71-6c7a-4478-b1ff-1dae24dc38c5)
+
 **Part 2**: Glossary
 * **Branch** - 
 * **Clone** -
@@ -83,3 +115,5 @@
 
 _Citations_
 * https://devmountain.com/blog/what-is-github-and-how-do-you-use-it/
+* https://www.jetbrains.com/help/webstorm/installation-guide.html
+* https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_find_your_way_through_find_symbol_by_name
