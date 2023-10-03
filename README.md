@@ -1,6 +1,7 @@
 # A02
 **How to use Github and GIT**
-  _Github and GIT_
+  
+_Github and GIT_
   
   Github is a company that provides hosting for software development version control using GIT.
   GIT itself is actually a protocol used as a version control system that lets you manage and keep 
