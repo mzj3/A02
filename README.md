@@ -13,11 +13,12 @@
   to upgrade if you plan on working on a private project that includes more than 3 collaborators.<br>
     
   For this tutorial, I will not be installing **GIT** on the system localy, but I will go in
-  detail if you wished to do so. Git was originally created by OS founding father Linus Torvald, 
-  the creator of Linux. He originally made it to track his changes as he was developing Linux, and
-  it soon exploded as a simple and powerful way for programmers to collaborate, coordinate work,
-  and work together on code and development projects. Git allows teams to work **remotely**. If you 
-  wish to install GIT on your machine, here is a link to the download for Linux, Mac, and Windows.
+  detail if you wished to **clone** a copy of a repository. Git was originally created by OS founding 
+  father Linus Torvald, the creator of Linux. He originally made it to track his changes as he was 
+  developing Linux, and it soon exploded as a simple and powerful way for programmers to collaborate, 
+  coordinate work, and work together on code and development projects. Git allows teams to work 
+  **remotely**. If you wish to install GIT on your machine, here is a link to the download for 
+  Linux, Mac, and Windows.
   * https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
   Now that you know what GIT is and have a proper Github account setup, it's time to make our first 
@@ -108,20 +109,27 @@
 **Part 2**: Glossary
 * **Branch** - A branch is a parallel version of a repository. It is contained within the repository,
   but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version.
-* **Clone** -
-* **Commit** -
-* **Fetch** -
-* **GIT** - test
-* **Github** -
-* **Merge** -
-* **Merge Conflict** -
-* **Push** -
-* **Pull** -
-* **Remote** -
-* **Repository** -
+* **Clone** - A clone is a copy of a repository that lives on your computer instead of on a website's server
+  somewhere, or the act of making that copy.
+* **Commit** - A commit, or "revision", is an individual change to a file (or set of files). When you make a commit to save
+  your work, Git creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of the specific changes
+  committed along with who made them and when.
+* **Fetch** - When you use git fetch, you're adding changes from the remote repository to your local working branch without
+  committing them.
+* **GIT** - Git is an open source program for tracking changes in text files.
+* **Github** - GitGub is a company that provides hosting for software development version control using GIT.
+* **Merge** - Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another.
+* **Merge Conflict** - A difference that occurs between merged branches. Merge conflicts happen when people make
+  different changes to the same line of the same file, or when one person edits a file and another person deletes the same file.
+* **Push** - To push means to send your committed changes to a remote repository on GitHub.com.
+* **Pull** - Pull refers to when you are fetching in changes and merging them. 
+* **Remote** - This is the version of a repository or branch that is hosted on a server, most likely GitHub.com.
+* **Repository** - A repository contains all of the project files (including documentation), and stores each file's
+  revision history. Repositories can have multiple collaborators and can be either public or private.
 
 
 _Citations_
 * https://devmountain.com/blog/what-is-github-and-how-do-you-use-it/
 * https://www.jetbrains.com/help/webstorm/installation-guide.html
 * https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_find_your_way_through_find_symbol_by_name
+* https://docs.github.com/en/get-started/quickstart/github-glossary
