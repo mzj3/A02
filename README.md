@@ -91,10 +91,10 @@
   
   ![image](https://github.com/mzj3/A02/assets/98351089/aca03299-24cf-45ce-8611-0cb692effcc3)
   
-    Click _Open_ > _NameOfProjectFolder_!
+  Click _Open_ > _NameOfProjectFolder_!
 
   To create a new projects, simply click "Create New Project" on the Welcome Screen or
-    Click _File_ > _New_ > _Project_
+  Click _File_ > _New_ > _Project_
   Next, choose "Empty Project". On the right side, choose the application folder and choose "Create".
 
   Now that a project exists, we can create a file. Choose new from the context menu of the selection and
