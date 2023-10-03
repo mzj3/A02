@@ -79,6 +79,7 @@
   Here we will installing WebStorm.
   
   ![image](https://github.com/mzj3/A02/assets/98351089/295fa5d5-6411-421a-b0d1-c73a30dba349)
+  
   If you want a specific version, click "Avaliable Versions". Make sure to log-in with yout JetBrains account
   as this IDE is not free and requires a valid license. You can now open WebStorm through the Toolbox App.
 
@@ -89,6 +90,7 @@
   Welcome screen.
   
   ![image](https://github.com/mzj3/A02/assets/98351089/aca03299-24cf-45ce-8611-0cb692effcc3)
+  
     Click _Open_ > _NameOfProjectFolder_!
 
   To create a new projects, simply click "Create New Project" on the Welcome Screen or
@@ -98,6 +100,7 @@
   Now that a project exists, we can create a file. Choose new from the context menu of the selection and
   choose the desired file type. This can be HTML, Stylesheet, or JavaScript. In this class, we will be focussing
   on HTML and CSS, so I reccomend the first two options.
+  
   ![image](https://github.com/mzj3/A02/assets/98351089/9745ad71-6c7a-4478-b1ff-1dae24dc38c5)
 
 **Part 2**: Glossary
