@@ -1,6 +1,8 @@
 # A02
 **How to use Github and GIT**
-  
+
+  ![25231](https://github.com/mzj3/A02/assets/98351089/2e0cce4b-51e3-4075-b12c-eea922c64736)
+
   **Github** is a company that provides hosting for software development version control using GIT.
   GIT itself is actually a protocol used as a version control system that lets you manage and keep 
   track of your source code history. We will be using GIT _by_ using Github, meaning that GIT is 
