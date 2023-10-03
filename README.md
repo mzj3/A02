@@ -106,7 +106,8 @@
   ![image](https://github.com/mzj3/A02/assets/98351089/9745ad71-6c7a-4478-b1ff-1dae24dc38c5)
 
 **Part 2**: Glossary
-* **Branch** - 
+* **Branch** - A branch is a parallel version of a repository. It is contained within the repository,
+  but does not affect the primary or main branch allowing you to work freely without disrupting the "live" version.
 * **Clone** -
 * **Commit** -
 * **Fetch** -
